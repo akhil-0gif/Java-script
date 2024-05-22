@@ -40,10 +40,24 @@ console.log(BolleanIsLoggedOut);*/
 // "" => false
 // "hitesh" => true
 
-/*let abc=33
+/*let abc=33  // string conversion to number using valueInString
 let valueInString=String(abc)
 console.log(typeof valueInString);
 console.log(valueInString);*/
+// console.log("1" + 1);
+// console.log(5 + 1 + "4");
+// console.log("1" + 1 + 4);
+// let niks=101 // prefix and postfix  of precidence operator?
+// niks++
+// console.log(niks);
+let a=1;
+
+let b=++a;
+console.log((a),(b));
+
+//If used postfix, with operator after operand (for example, niks++), the increment operator increments and returns the value before incrementing.
+
+//If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing
 
 
 
