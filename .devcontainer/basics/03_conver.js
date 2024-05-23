@@ -29,6 +29,7 @@ let isLoggedIn=1
 let BolleanIsLoggedIn=Boolean(isLoggedIn)
 console.log(typeof BolleanIsLoggedIn);
 console.log(BolleanIsLoggedIn);*/
+
 /*let isLoggedOut=false//(conversion of boolean to number, type)
 let BolleanIsLoggedOut=Boolean(isLoggedOut)
 let valueInNumber4=Number(isLoggedOut)
@@ -59,8 +60,27 @@ console.log((a),(b));
 
 //If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//practice purpose
+
+let first="asfa"
+let Num=Number(first)
+console.log(typeof Num);
+console.log(first);
+
+let loggin=true
+let conver=Number(loggin)
+console.log(conver);
 
 
+let shi=3645
+let cv=String(shi)
+console.log(typeof cv);
+console.log(cv);
 
 
-
+ let xv="ak133"
+ let no=Number(xv)
+ console.log(typeof no);
+ console.log(no);
+ console.log(xv);

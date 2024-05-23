@@ -56,7 +56,7 @@ console.log(typeof myObj);
  
 let user2 =user1;
 
-user1.email="aksd.com"
+user1.upi=3434
 
-console.log(user1);
-console.log(user2);
+console.log(user1.upi);
+console.log(user2.upi);
